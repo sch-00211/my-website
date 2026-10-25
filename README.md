@@ -9,3 +9,6 @@
 
 ## 公開URL
 https://sch-00211.github.io/my-website/
+
+## レポート課題のWordテンプレート
+[レポート課題用紙](report.docx)
